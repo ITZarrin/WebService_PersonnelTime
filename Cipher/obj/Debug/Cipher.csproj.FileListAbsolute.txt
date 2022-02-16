@@ -1,0 +1,5 @@
+C:\Users\ajavan\source\repos\Zarrin\Cipher\bin\Debug\Cipher.dll
+C:\Users\ajavan\source\repos\Zarrin\Cipher\bin\Debug\Cipher.pdb
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Debug\Cipher.dll
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Debug\Cipher.pdb

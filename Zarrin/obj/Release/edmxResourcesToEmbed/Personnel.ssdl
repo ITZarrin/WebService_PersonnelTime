@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PersonnelTimeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PersonnelTime">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="PersonnelID" Type="int" />
+    <Property Name="ZarrinPersonnelCode" Type="nvarchar" MaxLength="7" />
+    <Property Name="PersonnelName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="ShamsiDate" Type="nvarchar" MaxLength="10" />
+    <Property Name="Time" Type="nvarchar" MaxLength="5" />
+    <Property Name="Status" Type="tinyint" />
+  </EntityType>
+  <EntityContainer Name="PersonnelTimeModelStoreContainer">
+    <EntitySet Name="PersonnelTime" EntityType="Self.PersonnelTime" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

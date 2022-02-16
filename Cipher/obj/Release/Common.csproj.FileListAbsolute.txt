@@ -1,0 +1,11 @@
+C:\Users\ajavan\source\repos\Zarrin\Cipher\bin\Release\Common.dll
+C:\Users\ajavan\source\repos\Zarrin\Cipher\bin\Release\Common.pdb
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Release\Common.dll
+C:\Users\ajavan\source\repos\Zarrin\Cipher\obj\Release\Common.pdb
+E:\Draft\NewAPP\Zarrin\Cipher\bin\Release\Common.dll
+E:\Draft\NewAPP\Zarrin\Cipher\bin\Release\Common.pdb
+E:\Draft\NewAPP\Zarrin\Cipher\obj\Release\Common.csprojAssemblyReference.cache
+E:\Draft\NewAPP\Zarrin\Cipher\obj\Release\Common.csproj.CoreCompileInputs.cache
+E:\Draft\NewAPP\Zarrin\Cipher\obj\Release\Common.dll
+E:\Draft\NewAPP\Zarrin\Cipher\obj\Release\Common.pdb
